@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Python, ML, Computer Vision, Super Resolution Techniques**
 
-- 📫 How to reach me **bengisukacr@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/bengissu/](https://www.linkedin.com/in/bengissu/)
 
 <h3 align="left">Languages and Tools:</h3>
