@@ -1,10 +1,44 @@
-<h1 align="center">Hi 👋, I'm Bengisu</h1>
-<h3 align="center">Dedicated Data Scientist</h3>
 
-- 💬 Ask me about **Python, ML, Computer Vision, Super Resolution Techniques**
+## Summary
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bengissu/](https://www.linkedin.com/in/bengissu/)
+Hi, I'm Ben Kacar, a passionate and results-driven Data Scientist with over 3 years of hands-on experience in machine learning, data analysis, and cloud technologies. With a strong foundation in Python and statistical analysis, I excel in building predictive models, managing large datasets, and creating insightful data visualizations. My experience includes improving efficiency in data storage and processing while delivering impactful solutions in domains like healthcare and academic research. I thrive on tackling complex problems with innovative approaches, including natural language processing and computer vision.
+---
+Find about my experiences : [LinkedIn](http://www.linkedin.com/bengissu)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Languages and Technologies
 
+### Programming Languages
+- Python (pandas, scipy, scikit-learn, TensorFlow, PyTorch, OpenCV, matplotlib)
+- SQL
+- C++
+- R
+
+### Machine Learning & Data Science
+- Predictive Modeling
+- Neural Networks
+- Computer Vision
+- Natural Language Processing (NLP)
+- Time Series Analysis
+- Image Processing
+
+### Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization (Tableau, Looker)
+- Hypothesis Testing
+
+### Cloud & Databases
+- AWS (Lambda, S3, EC2)
+- Microsoft Azure
+- SQL Databases
+
+### Tools & Development
+- Django
+- Jupyter Notebook
+- Git
+- React Native
+- Node.js
+- ETL Processes
+
+---
