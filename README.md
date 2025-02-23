@@ -46,7 +46,7 @@ I thrive on challenging problems, love breaking down complex concepts, and enjoy
 
 ## 📬 Let's Connect!
 
-**💼 LinkedIn:** linkedin.com/in/bengissu
+<a href="https://linkedin.com/in/bengissu">Linkedin<a/>
 
 Let's collaborate and create something impactful! 🚀
 
