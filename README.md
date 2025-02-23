@@ -37,7 +37,7 @@ I thrive on challenging problems, love breaking down complex concepts, and enjoy
 
 # 🏆 Highlights & Projects
 
-**📊 SmartRing Data Analysis:** Developed ML models to predict stress levels, achieving 92% accuracy and reducing burnout by 15%.
+**📊 SmartRing Data Analysis:** Developed ML models to predict stress levels, achieving 92% accuracy.
 
 **📈 Tableau Dashboards:** Created interactive dashboards for 1,200+ users, increasing feature adoption by 20%.
 
