@@ -1,18 +1,29 @@
 Hi there! 👋
 
-I'm Ben Kacar, a Data Scientist with **3 years** of experience in machine learning and data analysis, and over **5 years** of proficiency in Python. I specialize in building predictive models, NLP, and handling large datasets. With expertise in cloud technologies and data visualization, I create impactful solutions.
+I'm Ben!
 
-Languages & Technologies I work with:
+🔍 About Me
 
-- **Programming**: Python (Django, pandas, scipy, scikit-learn, matplotlib, TensorFlow, PyTorch, OpenCV), SQL, Excel, JavaScript  
-- **Web Development**: Django, RESTful APIs, HTML, CSS  
-- **Machine Learning**: Predictive Modeling, Neural Networks, Computer Vision, NLP, Time Series Analysis  
-- **Data Analysis**: Statistical Analysis, Exploratory Data Analysis (EDA), Data Visualization (Tableau, Looker), ETL Processes  
-- **Security**: CSRF Protection, XSS Protection, SQL Injection Mitigation, Access Control  
-- **Cloud & Databases**: AWS (Lambda, S3, EC2), Azure, PostgreSQL, MySQL, SQL  
-- **Development & Tools**: Jupyter Notebook, Git, React Native, Node.js, Docker  
+🎓 Mathematics & Data Science graduate
+💼 Experience in prediction models, and business intelligence dashboards
+📊 Proficient in Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, and Tableau
+☁️ Experience with AWS & cloud solutions
+📈 Strong analytical mindset with expertise in A/B Testing & Statistics
+📌 Currently enhancing my skills in LLMs, feature selection, and model deployment
 
 
-Check out my work and feel free to connect!
+🛠 Tech Stack
+Here’s your skill list written in a concise, comma-separated format:
 
-[LinkedIn](http://www.linkedin.com/bengissu)
+Programming: Python (Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, OpenCV), SQL (MySQL, PostgreSQL) 
+Machine Learning & Data Science: Predictive Modeling, Neural Networks, Natural Language Processing (spaCy, NLTK), Computer Vision, Time Series Analysis, Feature Engineering  
+Data Analysis & Visualization: Statistical Analysis, Exploratory Data Analysis (EDA), Data Visualization (Tableau, Looker, Power BI, Matplotlib, Seaborn)  
+Databases & Cloud Computing: SQL (MySQL, PostgreSQL), AWS (Lambda, S3, EC2)
+Development & Deployment: Jupyter Notebook, APIs
+
+
+📬 Let's Connect!
+
+💼 LinkedIn: linkedin.com/in/bengissu
+
+Let's collaborate and create something impactful! 🚀
